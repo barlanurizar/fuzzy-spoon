@@ -5,3 +5,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Please refer to the website for more instructions.
 
 Barlan Tito made some changes here¡¡¡
+
+Change Made in sample branch.
